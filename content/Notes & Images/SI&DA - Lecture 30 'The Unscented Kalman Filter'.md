@@ -1,0 +1,27 @@
+![[Pasted image 20220719181804.png]]
+![[Pasted image 20220719181818.png]]
+![[Pasted image 20220719181847.png]]
+#TODO Explain better the Gaussian Curve Approximation.
+![[Pasted image 20220719181921.png]]
+![[Pasted image 20220719182138.png]]
+#TODO Watching ???
+#TODO Search and understand the Unscented Kalman Filter from Youtube.
+$i$ : is the index that goes from $1$ to $n$ where $n$ is the number of columns of the matrix $M$
+![[Pasted image 20220719182208.png]]
+![[Pasted image 20220719182233.png]]
+![[Pasted image 20220719182329.png]]
+![[Pasted image 20220719182357.png]]
+![[Pasted image 20220719182434.png]]
+![[Pasted image 20220719182501.png]]
+![[Pasted image 20220719182559.png]]
+![[Pasted image 20220719182619.png]]
+![[Pasted image 20220719182646.png]]
+![[Pasted image 20220719182707.png]]
+![[Pasted image 20220719182730.png]]
+![[Pasted image 20220719182754.png]]
+![[Pasted image 20220719182814.png]]
+![[Pasted image 20220719182834.png]]
+![[Pasted image 20220719182851.png]]
+![[Pasted image 20220719182910.png]]
+![[Pasted image 20220719182933.png]]
+![[Pasted image 20220719182951.png]]
